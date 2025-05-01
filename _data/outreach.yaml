@@ -1,49 +1,28 @@
 mini-projects:
-  
-  - title: Lightweight Semantic Perception Module for Autonomous Systems
-    system-name: 
-    gif: assets/img/demo_sawyer.gif
-    event: Senior Design (Arlington, TX, U.S.)
-    event-web: 
-    team: Zobia Tahir, Diya Ranjit, Jose Morales, ChangHao Yang, <u>Khang Nguyen</u>.
-    post: 
-    code: 
-    demo: 
-    description: We build a versatile software module for semantic scene understanding for broadly vision-based automation applications, including robots or unmanned vehicles installed with the Intel RealSense camera family with resource-constraint computing platforms. The video demonstrates the Sawyer manipulator to "see" the bottle, pick it, and put it into a destination box.
-    prize: 
+  title: "Skills & Experience"
+  sections:
+    - title: "Technical Toolkit"
+      content:
+        - "Programming: Java (Object-Oriented Fundamentals) | Python (Scripting & Prototyping)"
+        - "Database & Tools: MySQL | Git | VS Code"
 
-  - title: Autonomous Waypoint Navigation with GPS and ArduRover
-    system-name: 
-    gif: assets/img/demo_outdoor_nav.gif
-    event: UVS Design (Arlington, TX, U.S.)
-    event-web: 
-    team: Kevin Mathew, Jesus Garza Munoz, Benjamin Nguyen, <u>Khang Nguyen</u>.
-    post: 
-    code: 
-    demo: https://youtu.be/5QHfGqPYY8Y
-    description: We design the rover platform with hardware-software integration for autonomous waypoint navigation using Here3 GPS and ArduRover for outdoor activities. The video demonstrates the rover's mission to go through 10 defined waypoints on the UTA campus through Mission Planner via wireless communication through the Hex cube (Pixhawk 2.1) controller.
-    prize: 
+    - title: "Current Growth Areas"
+      content:
+        - "Backend Development: Exploring Flask/Django for web applications"
+        - "Software Design: Studying architectural patterns"
+        - "Behavioral Psychology: Applying gamification principles to tech"
 
-  - title: An Autonomous Spatial Voice Localization Crawling Robot
-    system-name: Spidey
-    gif: assets/img/demo_spidey.gif
-    event: HackMIT 2022 (Boston, MA, U.S.)
-    event-web: https://hackmit.org/
-    team: <u>Khang Nguyen</u>.
-    post: https://spectacle.hackmit.org/project/185
-    code: https://github.com/mkhangg/hackmit22
-    demo: https://youtu.be/m1g6fkH6Zvg
-    description: We present an autonomous spatial voice localization crawling robot demonstrating the potential of assistive technology for people with visual impairment to ask for help whenever they are in a spatial area without physical assistance. 
-    prize: Won Sponsorship Award for Assistive Technologies over 198 competing teams.
+    - title: "Creative & Communication Skills"
+      content:
+        - "Visual Storytelling: Beginner in digital drawing, using visuals to simplify and explain technical ideas."
+        - "Passion for Teaching: I enjoy sharing knowledge and adapt well to different learning styles — teaching helps me grow too."
+        - "Design Basics: Asset creation with Photoshop"
 
-  - title: An Autonomous Ground Monitoring and Tree Planting Robot
-    system-name: iPlanter
-    gif: assets/img/demo_iplanter.gif
-    event: GT IEEE RoboTech 2022 (Atlanta, GA, U.S.)
-    event-web: https://robotech2022.devpost.com/
-    team: <u>Khang Nguyen</u>, Muhtasim Mahfuz, Vincent Kipchoge, Johnwon Hyeon.
-    post: https://devpost.com/software/tree-planting-robot
-    code: https://github.com/mkhangg/robotech22
-    demo: https://youtu.be/GZ0oAX-lLSM
-    description: Our tree planting robot demonstrates the an on-farm surveying robot that autonomously determines soil quality, plants seeds, and collects on-ground images.
-    prize: Won 2nd place in Body Track, 3rd place in Electrical Track, and Top 8 Prizes over 47 competing teams (approximately 160 participants).
+    - title: "Certifications in Progress"
+      content:
+        - "English Proficiency: B1 Certification (Expected 2025)"
+
+    - title: "Career Status"
+      content:
+        - "Actively seeking my first professional opportunity to apply academic knowledge in real-world scenarios."
+        - "Eager to contribute to teams while accelerating my learning curve."

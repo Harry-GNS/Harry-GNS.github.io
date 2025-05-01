@@ -3,11 +3,16 @@
 <hr>
 <div class="row" id="outreach">
     <div class="col">
-        <h2 clss="mb-5">🧩 outreach activities</h2>
-        <p></p>
-        {% for mini-project in site.data.outreach.mini-projects %}
-            {% include_relative _libs/outreach_widget.html %}
+        <h2 class="mb-5">{{ site.data.outreach['mini-projects'].title }}</h2>
+        {% for section in site.data.outreach['mini-projects'].sections %}
+            <div class="skills-section">
+                <h4>{{ section.title }}</h4>
+                <ul>
+                    {% for item in section.content %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
         {% endfor %}
-        <p></p>
     </div>
 </div>
